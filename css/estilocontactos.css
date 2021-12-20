@@ -1,0 +1,22 @@
+body {background: powderblue;
+background-image: image url(./imagenes/empanadasvector.jpg);
+background-repeat: repeat-x;}
+
+.tituloheader {color:white;font-size: 90px;font-family: courier; text-align: center;font-style: oblique;}
+
+.titulocontactos {color: #FF2626; font-family: verdana; font-size: 45px; text-align:center; text-decoration: underline;}
+
+h2 {color: #FF2626; font-size: 50px;font-family: verdana; text-align: center;}
+
+.volver {color: red; font-size: 25px; font-family: verdana; text-align: center;}
+
+footer {background-color: white; width: 50%;}
+
+.iconow {position: fixed;
+          top: 75%;
+        left: :90% ;
+      width: 5%}
+.tamañowp {width: 100%}
+.tamañofb {width: 100px}
+.tamañoig {width: 100px}
+.tamañotw {width: 100px}
